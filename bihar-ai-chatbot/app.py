@@ -170,7 +170,7 @@ def main():
     
     # Sidebar with enhanced UI
     with st.sidebar:
-        st.image("images/madhubani_art.png", width=200)
+        
         st.markdown("""
         <div style="background: #FF993310; padding: 1rem; border-radius: 12px; margin-bottom: 1.5rem;">
             <h3 style="color: #138808; margin-top: 0;">Quick Facts</h3>
