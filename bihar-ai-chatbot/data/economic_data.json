@@ -1,0 +1,163 @@
+{
+  "overview": {
+    "gdp": {
+      "current_gdp": "₹7.57 lakh crore (2022-23)",
+      "growth_rate": "10.98% (2021-22)",
+      "sector_contribution": {
+        "agriculture": "18%",
+        "industry": "27%",
+        "services": "55%"
+      },
+      "source": "Bihar Economic Survey 2022-23"
+    },
+    "per_capita_income": {
+      "current": "₹54,383 (2022-23)",
+      "growth_rate": "9.6%",
+      "source": "Bihar Economic Survey 2022-23"
+    }
+  },
+  "agriculture": {
+    "key_facts": {
+      "contribution_to_state_gdp": "18%",
+      "workforce_engaged": "77%",
+      "land_under_cultivation": "56.03 lakh hectares",
+      "source": "Bihar Agricultural Census 2020-21"
+    },
+    "major_crops": [
+      {
+        "name": "Rice",
+        "production": "85.12 lakh metric tonnes (2021-22)",
+        "rank_in_india": 3
+      },
+      {
+        "name": "Wheat",
+        "production": "62.18 lakh metric tonnes (2021-22)",
+        "rank_in_india": 4
+      },
+      {
+        "name": "Maize",
+        "production": "30.57 lakh metric tonnes (2021-22)",
+        "rank_in_india": 2
+      },
+      {
+        "name": "Litchi",
+        "production": "3.0 lakh metric tonnes (2021-22)",
+        "rank_in_india": 1,
+        "special_note": "Accounts for 60% of India's total litchi production"
+      }
+    ],
+    "irrigation": {
+      "irrigated_area": "33.16 lakh hectares",
+      "major_sources": ["Tube wells (62%)", "Canals (22%)", "Ponds (8%)"],
+      "source": "Bihar Irrigation Department 2022"
+    }
+  },
+  "industry": {
+    "key_sectors": [
+      {
+        "name": "Food Processing",
+        "contribution": "28% of state's industrial output",
+        "major_units": [
+          "Patna Dairy Project",
+          "Harpur (Muzaffarpur) Litchi Park",
+          "Makhana Processing Cluster (Darbhanga)"
+        ]
+      },
+      {
+        "name": "Textiles",
+        "contribution": "15%",
+        "special_note": "Bhagalpur known as 'Silk City' with 25,000 handlooms"
+      },
+      {
+        "name": "Leather",
+        "contribution": "12%",
+        "major_units": ["Fulwarisharif (Patna)", "Hajipur"]
+      }
+    ],
+    "investment": {
+      "total_approved_projects": "₹2.25 lakh crore (2016-22)",
+      "major_investors": ["ITC", "Britannia", "PepsiCo"],
+      "source": "Bihar Industries Department 2023"
+    }
+  },
+  "services": {
+    "key_components": [
+      {
+        "name": "Tourism",
+        "contribution": "8.2% of state GDP",
+        "major_attractions": [
+          "Bodh Gaya (Mahabodhi Temple)",
+          "Nalanda Ruins",
+          "Rajgir Hot Springs",
+          "Vaishali (Ancient Republic)"
+        ],
+        "foreign_tourists": "2.14 lakh (2022)",
+        "source": "Bihar Tourism Department 2023"
+      },
+      {
+        "name": "IT/ITES",
+        "growth_rate": "22% CAGR (2018-23)",
+        "major_hubs": ["Patna", "Bhagalpur", "Gaya"],
+        "notable_companies": ["Infosys", "TCS", "HCL"]
+      }
+    ]
+  },
+  "infrastructure": {
+    "transport": {
+      "road_network": "1,16,181 km (2023)",
+      "national_highways": "5,358 km",
+      "railway_length": "3,794 route km",
+      "airports": ["Jay Prakash Narayan Airport (Patna)", "Gaya International Airport"],
+      "source": "Bihar Road Development Authority 2023"
+    },
+    "energy": {
+      "installed_capacity": "7,304 MW (2023)",
+      "renewable_energy": "450 MW (Solar: 350 MW, Biomass: 100 MW)",
+      "electrification": "100% village electrification achieved (2018)",
+      "source": "Bihar State Power Holding Company 2023"
+    }
+  },
+  "development_indicators": {
+    "human_development_index": {
+      "score": "0.571 (2021)",
+      "national_rank": 29,
+      "components": {
+        "life_expectancy": "68.2 years",
+        "education_index": "0.476",
+        "income_index": "0.317"
+      },
+      "source": "NITI Aayog SDG India Index 2021"
+    },
+    "employment": {
+      "unemployment_rate": "10.2% (2023)",
+      "organized_sector": "8.7% of workforce",
+      "mnrega_employment": "9.2 crore person-days (2022-23)",
+      "source": "Centre for Monitoring Indian Economy 2023"
+    }
+  },
+  "recent_initiatives": [
+    {
+      "name": "Bihar Startup Policy 2022",
+      "highlights": [
+        "₹500 crore venture capital fund",
+        "100% stamp duty exemption",
+        "25% subsidy on patent filing"
+      ]
+    },
+    {
+      "name": "Jal Jeevan Hariyali Mission",
+      "budget": "₹24,524 crore (2019-24)",
+      "achievements": [
+        "3.2 lakh water conservation structures",
+        "Increased groundwater level by 2.1 meters"
+      ]
+    }
+  ],
+  "sources": [
+    "Bihar Economic Survey 2022-23",
+    "Reserve Bank of India State Finances Report",
+    "Ministry of Agriculture and Farmers Welfare",
+    "Bihar Industries Department Annual Report 2023",
+    "NITI Aayog SDG India Index 2021"
+  ]
+}

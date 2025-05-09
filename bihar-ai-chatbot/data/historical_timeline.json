@@ -1,0 +1,72 @@
+[
+  {
+    "period": "Prehistoric (3000-600 BCE)",
+    "years": "Before 600 BCE",
+    "title": "Early Settlements",
+    "description": "Archaeological evidence shows Neolithic settlements at Chirand (Saran district). Painted Grey Ware culture flourished in the region.",
+    "sources": ["Archaeological Survey of India", "Chirand Excavation Reports"]
+  },
+  {
+    "period": "Vedic Period (1500-600 BCE)",
+    "years": "1500-600 BCE",
+    "title": "Emergence of Janapadas",
+    "description": "Bihar region mentioned in Rigveda as 'Kikata'. Emergence of important janapadas like Videha (Mithila) and Magadha.",
+    "sources": ["Rigveda", "Bihar Through the Ages by K.K. Datta"]
+  },
+  {
+    "period": "Haryanka Dynasty (544-413 BCE)",
+    "years": "544-413 BCE",
+    "title": "Rise of Magadha Empire",
+    "description": "Bimbisara established the first Magadhan capital at Rajgir. Ajatashatru built the fort at Pataliputra. First Buddhist Council held at Rajgir.",
+    "sources": ["Mahavamsa", "Archaeological Survey of India"]
+  },
+  {
+    "period": "Maurya Empire (322-185 BCE)",
+    "years": "322-185 BCE",
+    "title": "Golden Age of Bihar",
+    "description": "Chandragupta Maurya established India's first empire with Pataliputra as capital. Ashoka spread Buddhism after Kalinga war. Built pillars and stupas across Bihar.",
+    "sources": ["Arthashastra", "Ashokan Edicts"]
+  },
+  {
+    "period": "Gupta Empire (320-550 CE)",
+    "years": "320-550 CE",
+    "title": "Classical Renaissance",
+    "description": "Pataliputra became center of learning. Aryabhata made astronomical discoveries. Nalanda University founded during this period.",
+    "sources": ["Aryabhatiya", "Fa Xian's Travel Records"]
+  },
+  {
+    "period": "Pala Empire (750-1200 CE)",
+    "years": "750-1200 CE",
+    "title": "Buddhist Revival",
+    "description": "Dharma Pala made Bihar the center of Buddhist learning. Vikramshila University established. Tibetan pilgrims visited Bihar's monasteries.",
+    "sources": ["Taranatha's History of Buddhism", "Nalanda Copper Plate"]
+  },
+  {
+    "period": "Delhi Sultanate (1206-1526)",
+    "years": "1206-1526",
+    "title": "Islamic Rule Begins",
+    "description": "Bakhtiyar Khilji destroyed Nalanda and Vikramshila. Bihar became part of Bengal province. Sufi saints established khanqahs.",
+    "sources": ["Tabaqat-i-Nasiri", "Bihar in Delhi Sultanate by Qeyamuddin Ahmad"]
+  },
+  {
+    "period": "Mughal Era (1526-1757)",
+    "years": "1526-1757",
+    "title": "Sher Shah Suri's Reforms",
+    "description": "Sher Shah (from Sasaram) introduced Rupee currency and Grand Trunk Road. Patna became important trading center. Maner became Sufi center.",
+    "sources": ["Tarikh-i-Sher Shahi", "Ain-i-Akbari"]
+  },
+  {
+    "period": "British Rule (1757-1947)",
+    "years": "1757-1947",
+    "title": "Colonial Exploitation",
+    "description": "Battle of Buxar (1764) gave British control. Indigo cultivation led to Champaran Satyagraha (1917). Bihar separated from Bengal in 1912.",
+    "sources": ["Bihar District Gazetteers", "Gandhi's Champaran Movement"]
+  },
+  {
+    "period": "Post-Independence (1947-)",
+    "years": "1947-Present",
+    "title": "Modern Bihar",
+    "description": "Land reforms under K.B. Sahay. Creation of Jharkhand in 2000. Recent infrastructure development including bridges over Ganga and education reforms.",
+    "sources": ["Bihar Legislative Assembly Records", "Bihar Development Reports"]
+  }
+]
